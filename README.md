@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi mans!What's up!
+
+zj here, I like Hack Technology and some about new developments.
+
